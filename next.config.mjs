@@ -1,9 +1,12 @@
 import { withSentryConfig } from '@sentry/nextjs';
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/avval-narang.github.io",
     output: "export",
     reactStrictMode: true,
+    distDir: "dist",
+    images: {
+        unoptimized: true,
+    }
 };
 
 export default withSentryConfig(nextConfig, {

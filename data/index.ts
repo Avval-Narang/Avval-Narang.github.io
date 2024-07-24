@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently deepening my roots into Software Development",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,66 +107,44 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Avval was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Avval's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Avval is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It takes me a great pleasure in recommending Mr. Avval Narang, an individual who has demonstrated remarkable dedication and expertise in the realm of programming, specifically in the area using diverse machine learning models and presenting them with a minimalist yet beautiful UI. I am confident that Avval's endeavours will further multiply to yield fruitful outcomes and significant contribution in the field of Computer Science. If you'd like to further discuss Avval's educational and software development capabilities or have any further questions in this regard, please feel free to reach out to me any time.",
+    name: "Dr. Ankita Gupta",
+    title: "Assistant Professor, Dept. of CSE, MAIT",
+    img: "dr-ankita-gupta.png",
   },
   {
     quote:
-      "Collaborating with Avval was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Avval's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Avval is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Avval was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Avval's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Avval is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Avval was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Avval's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Avval is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Avval was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Avval's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Avval is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Avval Narang has been a commendable member of fundraising team in Saday Sadev from 04th November 2022 to 04th April 2023. Throughout his time at Saday Sadev, he looked after multiple responsibilities and completed all the tasks assigned to him on time. He has been an active and hardworking member of the organization who engaged in group discussions and demonstrated great work ethics throughout his time here. His passion for bringing a change in society is evident through his work at our organization. We highly recommend him and wish him the very best in his future endeavors.",
+    name: "Aditi Bansal",
+    title: "Organization head, Saday Sadev NGO",
+    img: "aditi-bansal.png",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "Maharaja Agrasen Institute of Technology",
+    img: "/mait.png",
+    nameImg: "",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "Saday Sadev NGO",
+    img: "/sadaysadev.png",
+    nameImg: "",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Innov8 Labs",
+    img: "",
+    nameImg: "/innov8labs.png",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "The Curious Bunny Studios",
+    img: "/thecuriousbunny.png",
+    nameImg: "",
   },
 ];
 
